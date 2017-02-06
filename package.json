@@ -1,5 +1,6 @@
 {
   "name": "react-three-product-builder",
+  "version":"0.1",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "node_modules/babel-cli/bin/babel.js src --out-dir lib"
